@@ -10,7 +10,7 @@
   4) Deve-se colocar todo o conteúdo deste diretório dentro do servidor WEB para que fique:
     http://<Seu Servidor>/ProvaBDR/Questao4/tarefas 
     
-    Qualquer dúvida ou sugestão, não deixar de entrar em contato:
+    Qualquer dúvida ou sugestão, não deixem de entrar em contato:
     
     maureliosilvaf@gmail.com
   
