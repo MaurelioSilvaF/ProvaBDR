@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `tarefas` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `deTitulo` varchar(100) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `deTarefa` text CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `nuPrioridade` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=24 ;
+
